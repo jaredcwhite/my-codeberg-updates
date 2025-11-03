@@ -6,4 +6,10 @@ Publishing my updates on Codeberg for the GitHub social feed! Yes, GitHub is sor
 
 ## 🔔 Important Updates
 
+* **2025-11-03:** [jaredwhite/serbea v2.4.0](https://codeberg.org/jaredwhite/serbea/releases/tag/v2.4.0)
+  - Convert to using new `Erubi::CaptureBlockEngine`
+  - Add RuboCop to repo and apply many suggested fixes
+* **2025-11-03:** [jaredwhite/streamlined v0.6.2](https://codeberg.org/jaredwhite/streamlined/releases/tag/v0.6.2)
+  - Rename proc internals to `__streamlined` prefix to avoid pollution
+  - Convert tests to spec style & remove rails-dom-testing
 * **2025-10-29:** [heartml/ride_the_streetcar](https://codeberg.org/heartml/ride_the_streetcar) - Add solargraph, clean up cops, simplify tests
