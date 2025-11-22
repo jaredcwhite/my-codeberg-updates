@@ -6,6 +6,7 @@ Publishing my updates on Codeberg for the GitHub social feed! Yes, GitHub is sor
 
 ## 🔔 Important Updates
 
+* **2025-11-22:** a [Table of Open Source Projects](https://codeberg.org/jaredwhite/.profile) is now on my Codeberg profile with links and statuses!
 * **2025-11-03:** [jaredwhite/serbea v2.4.0](https://codeberg.org/jaredwhite/serbea/releases/tag/v2.4.0)
   - Convert to using new `Erubi::CaptureBlockEngine`
   - Add RuboCop to repo and apply many suggested fixes
