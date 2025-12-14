@@ -6,6 +6,11 @@ Publishing my updates on Codeberg for the GitHub social feed! Yes, GitHub is sor
 
 ## 🔔 Important Updates
 
+* **2025-12-14:** [jaredwhite/freyia v0.6.0](https://codeberg.org/jaredwhite/freyia/releases/tag/v0.6.0)
+  - Add support for Serbea-based templates (alternative to ERB)
+  - Refactor all `params = {}` to real keyword arguments
+  - Handle ANSI codes in columnar calculations (for `print_table`)
+  - Use yarddoc syntax for all doc comments
 * **2025-11-22:** a [Table of Open Source Projects](https://codeberg.org/jaredwhite/.profile) is now on my Codeberg profile with links and statuses!
 * **2025-11-03:** [jaredwhite/serbea v2.4.0](https://codeberg.org/jaredwhite/serbea/releases/tag/v2.4.0)
   - Convert to using new `Erubi::CaptureBlockEngine`
