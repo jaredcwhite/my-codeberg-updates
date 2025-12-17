@@ -6,6 +6,12 @@ Publishing my updates on Codeberg for the GitHub social feed! Yes, GitHub is sor
 
 ## 🔔 Important Updates
 
+* **2025-12-16:** [jaredwhite/lifeform v0.17.0](https://codeberg.org/jaredwhite/lifeform/releases/tag/v0.17.0)
+  - Add `fragment` "field" type for adding arbitrary HTML sections to forms
+  - Allow disabling csrf protection
+  - Convert tests to spec style and add "Intuitive Expectations"
+    - remove rails-dom-testing
+    - bump minimum Ruby to 3.2
 * **2025-12-14:** [jaredwhite/freyia v0.6.0](https://codeberg.org/jaredwhite/freyia/releases/tag/v0.6.0)
   - Add support for Serbea-based templates (alternative to ERB)
   - Refactor all `params = {}` to real keyword arguments
